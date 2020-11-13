@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cantiusers"
+    }
+  },
+  "defaultProject": "cantiusers",
+  "cli": {
+    "analytics": false
+  }
 }
